@@ -25,7 +25,7 @@ An interactive web application that visually demonstrates how popular sorting al
 
 ## 🚀 Live Demo
 
-Coming soon on [Vercel](https://vercel.com) or [GitHub Pages](#)!
+https://sorting-visualizer-eight-ecru.vercel.app/
 
 ## 📦 Getting Started
 
