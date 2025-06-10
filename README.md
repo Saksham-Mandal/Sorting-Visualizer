@@ -2,8 +2,6 @@
 
 An interactive web application that visually demonstrates how popular sorting algorithms work in real time. Built with **React**, **TypeScript**, and **Vite**, the tool is designed for educational purposes, making it easier to understand sorting logic through animations.
 
-![demo gif or screenshot placeholder]()
-
 ## 🔍 Features
 
 - Visualizes sorting algorithms step-by-step:
